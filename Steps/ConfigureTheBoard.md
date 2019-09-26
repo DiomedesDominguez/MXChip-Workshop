@@ -26,4 +26,4 @@ The MXChip board has built in WiFi, and this needs to be configured to connect t
 
 <hr>
 
-In this step you updated the firmware on the MXChip board, and configured the Wife. Now move on to the [next step](./ConfigureVSCode.md) where you will configure Visual Studio code ready for IoT development.
+In this step you updated the firmware on the MXChip board, and configured the WiFi. Now move on to the [next step](./ConfigureVSCode.md) where you will configure Visual Studio code ready for IoT development.
