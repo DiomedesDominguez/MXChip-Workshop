@@ -4,15 +4,15 @@ In the [previous step](./ConfigureTheBoard.md) you configured the MXChip board. 
 
 Visual Studio Code can be used to code the MXChip, including pushing the compiled code to the board by automating the Arduino IDE. It can also be used to publish code to Azure and configure services.
 
-## Install the IoT extension
+## Install the Visual Studio Code extensions
 
 Visual Studio Code has a wealth of extensions that provide different capabilities to the editor. There is one designed for IoT.
 
 * Launch Visual Studio Code
 * Select **Extensions** from the side bar
-* Search for the *Azure IoT Device Workbench* extension and install it
+* Search for the *Azure IoT Tools* extension packand install it
 
-  ![The Azure Iot Device Workbench extension install page](../Images/InstallIoTExtension.png)
+  ![The Azure IoT Tools extension pack install page](../Images/InstallIoTExtension.png)
 
 * Search for the *Azure Functions* extension and install it.
 
