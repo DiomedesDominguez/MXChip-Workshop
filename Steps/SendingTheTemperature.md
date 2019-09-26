@@ -145,7 +145,7 @@ You can see a live stream of the messages, including the contents from Visual St
 
 * Open the *Explorer* and locate the *AZURE IOT HUB DEVICES* section.
 * Expand this and right click on your device.
-* Select *Start Monitoring D2C Message*. D2C is short for Device to Cloud.
+* Select *Start Monitoring Built-in Event Endpoint*. 
   
   ![Selecting the Start Monitoring D@C message menu option](../Images/StartMonitoringD2C.png)
 
