@@ -40,7 +40,7 @@ You will need to install a few applications and tools to be able to program this
 * [Azure Functions Core Tools](https://docs.microsoft.com/azure/azure-functions/functions-run-local/?WT.mc_id=mxchipworkshop-github-jabenn)
 * You may need to install a USB driver or configure USB support to communicate with the MXChip.
 
-  * Windows: Download and install USB driver from [STMicro](http://www.st.com/en/development-tools/stsw-link009.html).
+  * Windows: Download and install USB driver from [STMicro](https://www.st.com/content/ccc/resource/technical/software/driver/c6/fa/5a/f9/d4/d2/40/db/stsw-link009.zip/files/stsw-link009.zip/jcr:content/translations/en.stsw-link009.zip).
 
   * macOS: No driver is required for macOS.
 
