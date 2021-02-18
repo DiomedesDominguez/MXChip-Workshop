@@ -1,6 +1,6 @@
 ## Installation in Ubuntu
 
-At the time of writting I was using Ubuntu 20.10. When I execute ```sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/microsoft-ubuntu-$(lsb_release -cs)-prod $(lsb_release -cs) main" > /etc/apt/sources.list.d/dotnetdev.list'`` 
+At the time of writting I was using Ubuntu 20.10. When I execute ``` sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/microsoft-ubuntu-$(lsb_release -cs)-prod $(lsb_release -cs) main" > /etc/apt/sources.list.d/dotnetdev.list' ```
 
 I had to change the ```/etc/apt/sources.list.d/dotnetdev.list``` file to use focal (Ubuntu 20.04) because is the latest version from Microsoft.
 
