@@ -20,7 +20,7 @@ You can read more at [azure.microsoft.com/services/iot-hub](https://azure.micros
 
 Before you can work through this lab, you will need some hardware, software and an Azure account.
 
-This workshop has been tested on Windows 10 and macOS Mojave. It should also work on Ubuntu, but this [hasn't been validated yet](https://github.com/jimbobbennett/MXChip-Workshop/issues/1).
+This workshop has been tested on Windows 10 and macOS Mojave. It should also work on [Ubuntu](https://github.com/DiomedesDominguez/MXChip-Workshop/blob/master/Ubuntu.md).
 
 ### Hardware
 
