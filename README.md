@@ -48,7 +48,7 @@ You will need to install a few applications and tools to be able to program this
 
     ```bash
     # Copy the default rules. This grants permission to the group 'plugdev'
-    sudo cp ~/.arduino15/packages/AZ3166/tools/openocd/0.10.0/linux/contrib/60-openocd.rules /etc/udev/rules.d/
+    sudo cp ~/.arduino15/packages/AZ3166/tools/openocd/0.10.0/contrib/60-openocd.rules /etc/udev/rules.d/
     sudo udevadm control --reload-rules
 
     # Add yourself to the group 'plugdev'
